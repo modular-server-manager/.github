@@ -4,5 +4,9 @@ This application allow to control multiple games servers. Allow multiple interfa
 
 Visit the [server](https://github.com/modular-server-manager/server) readme for more informations
 
-Current clients:
+All app-wide config are placed in the [root](https://github.com/modular-server-manager/root) repository
+
+## Current clients:
 - [web client](https://github.com/modular-server-manager/web-client)
+
+
